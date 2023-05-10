@@ -4,117 +4,32 @@ Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijk
 
 > What distinguishes Human-Centered Design from other problem-solving approaches is its obsessive focus on understanding the perspective of the person who experiences a problem, their needs, and whether the solution that has been designed for them is truly meeting their needs effectively or not. At its most effective, the very people who experience a problem the most are a constant part of the design process and when possible, become part of the design team itself. - [What Is Human-Centered Design?](https://medium.com/dc-design/what-is-human-centered-design-6711c09e2779)
 
-Door regelmatig te testen met je doelgroep kom je tot een beter en passend ontwerp. 
-Een Frontender heeft verstand van interactie, vormgeving én techniek. 
-Als je web technieken beheerst kun je je ideeën snel prototypen en testen in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
-        
-In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen. 
-Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? 
-Wat voor principes heb je gebruikt en getest? En is het leuk?
-
 ## Opdracht
 
-### Ontwerpen met en voor echte mensen
+### User Scenario
 
-Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. 
-Een echt mens. 
-Je moet je ontwerp elke week testen. 
-Door te testen en te itereren ga je je ontwerp verbeteren. 
-Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon. 
-Een _exclusive design_ ... 
-Wie is deze persoon dan voor wie je dit gaat maken? 
-Wat vindt deze persoon leuk of juist niet? 
-Hoe bedient deze persoon een computer?
+**Who is the user I’m designing for?**
 
-- [Opdracht - Ontwerpen met en voor echte mensen](course/opdracht-human-centered-design.md)
+De product die ik ga maken is ontworpen voor Petra Huidink-de Jong. Petra is een persoon die blind is geboren en dus helemaal niks kan zien. Ook Petra heeft net zoals iedereen gewoon een dagelijks leven waarbij ze onderandere bezig is als beleidsmedewerker Toegankelijkheid en Mobiliteit bij Cliëntenbelang Amsterdam en ze haar eigen vertaalbureau heeft.
 
-### Leerdoelen
+Petra vind het belangrijk wat zij voor kleding draagt en hoe ze zich vertoond tegenover andere mensen. Doordat ze blind is kan ze zelf niet zien hoe iets haar staat en wat een goede combinatie kan zijn. Hiervoor heeft ze dan iemand ervoor nodig, maar wil ze graag het heft zelf in handen hebben. Voor de opdracht is het dan ook de bedoeling om haar kledingkast te digitaliseren, zodat ze zelf makkelijk en overzictelijk kan horen wat ze allemaal in bezit heeft en keuzes eruit te kunnen maken.
 
-- _Leren hoe je (design) principles in een ontwerp kan toepassen._
-- _User needs begrijpen en gebruiken in je ontwerp._
-- _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
+**What does this user want on my site?**
 
-[Rubric](#rubric)
+<details>
+<summary>Passende kleding uitzoeken</summary>
+<p>Je representatief kunnen kleding in verschillende omstandigheden is voor iedereen belangrijk, ook voor Petra. Wat is casual, zakelijk, feestelijk of geschikt voor een begrafenis? Petra heeft een kast vol kleren die ze graag op het juiste moment wil kunnen gebruiken. Hoe vind je de juiste kleurencombinaties als je het niet kunt zien? Ontwerp een systeem dat de ordening van de kast voor Petra inzichtelijk maakt op kleur en stijl.</p>
+</details>
 
-## Planning & programma
+Petra wil graag een systeem waarin ze haar eigen kleding in kan terug vinden. Ze kan momenteel doormiddel van voelen wel herkennen welk kledingstuk wat is, maar hierbij is kleur en stijl dan nog een redelijk groot vraagstuk. Door het digitaliseren kan het in het systeem al haar kleding bijgehouden worden en worden deze vervolgens hardop voorgelezen. Hierdoor krijg Petra alle benodigde informatie over dat bepaalde kledingstuk en waar het in het kledingkast bevind zodat ze de goede pakt.
 
-| Planning  | Woensdag  |  Donderdag | Vrijdag  |
-|---|---|---|---|
-| [Week 1](#week-1---kickoff-en-aannames-testen)  | Intro & College Exclusive design | College + Testen | Feedbackgesprekken |
-| [Week 2](#week-2---prototypen-en-testen)  | College + Testen | ~~Koningsdag~~  | ~~Vrij~~  | 
-| ~~Meivakantie~~ |   |  |   |
-| [Week 3](#week-3---prototypen-presenteren-en-reflecteren)  | College  |  Onderzoeken presenteren | Beoordelingsgesprekken  |
+**How is this user going to achieve his goals?**
 
+text
 
-## Week 1 - Intro en aannames testen 
+**Why does this user come to my site?**
 
-Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag en donderdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Zorg dat je al een kleine interactieve demo maakt om te testen.
-
-### Woensdag 19 april
-
-Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Eric gaat vertellen over _Exclusive Design_.
-
-Daarna prototypen.
-
-### Donderdag 20 april
-
-Donderdag krijg je een college over testen. Ook gaan we deze les het artikel [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/flipping-things/) bespreken.
-
-Daarna prototypen en testen.
-
-### Vrijdag 21 april
-
-Feedbackgesprekken in groepen.
-
-
-## Week 2 - Prototypen en testen 
-
-Deze week heb je het tweede gesprek met je testpersoon. Wat ga je testen? Wat wil je weten? Donderdag is het koningsdag, dan is er geen les.
-
-### Woensdag 26 april
-
-Donderdag krijg je een college over testen. 
-Lees voor deze les de artikelen:  
-[10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) 
-en [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/) lezen.
-
-'s Middags ga je voor de tweede keer testen.
-
-
-
-## Week 3 - Prototypen, presenteren en reflecteren
-
-In week 3 gaan we alle onderzoeken presenteren en publiceren. Eind van de week zijn de beoordelingsgesprekken. 
-
-### Woensdag 10 mei
-
-Woensdag beginnen we met een college. 
-Voor deze les moet je dit artikel lezen: [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/) 
-
-Daarna verder werken aan je prototype.
-
-### Donderdag 11 mei
-
-Donderdag gaan we de onderzoeken presenteren en gaan we een site maken om al jullie onderzoeksbevindingen te publiceren. 
-
-
-### Vrijdag 12 mei
-
-Op vrijdag zijn de beoordelingsgesprekken. Je hebt dan een gesprek waarin we je vorderingen en bevindingen bespreekt. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak. 
-
-
-
-## Rubric
-
-De opdracht wordt beoordeeld aan de hand van onderstaande rubric. Je moet slagen voor het criterium (middenkolom) om het vak te halen. 
-
-| Ontoereikend  | Criteria  |  Verbetering |
-|---|---|---|
-|  | Readme - In de beschrijving van het project staat de opdracht uitgelegd, is het probleem duidelijk beschreven en hoe het probleem is opgelost. | | 
-|  | Design Principles - Student laat zien hoe de Exclusive Design Principles zijn toegepast in het ontwerp. De principes study situation, prioritise identity, ignore conventions en add nonsense zijn goed uitgelegd. Aan de hand van de principes wordt duidelijk gemaakt hoe deze hebben bijgedragen aan het verbeteren van het ontwerp. | | 
-|  | User Needs - Er is een user scenario geschreven dat aansluit bij de identiteit van de test persoon. Er is een duidelijk en volledig user scenario geschreven dat antwoord geeft op de 4 w-vragen: Who? What? How? en Why? | | 
-|  | Testen - Er is elke week getest. Er is een verslaglegging van de tests gedaan waarin de test-opzet wordt behandeld en er is een duidelijke conclusie beschreven met do's en dont's over hoe je goed kan testen. | | 
-|  | Testresultaten - Aan de hand van de tests wordt duidelijk gemaakt hoe deze hebben bijgedragen aan het verbeteren van het ontwerp of hoe dit een volgende keer beter of anders kan. | | 
+text
 
 
 
