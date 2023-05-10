@@ -8,13 +8,13 @@ Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijk
 
 ### User Scenario
 
-**Who is the user I’m designing for?**
+**- Who is the user I’m designing for?**
 
 De product die ik ga maken is ontworpen voor Petra Huidink-de Jong. Petra is een persoon die blind is geboren en dus helemaal niks kan zien. Ook Petra heeft net zoals iedereen gewoon een dagelijks leven waarbij ze onderandere bezig is als beleidsmedewerker Toegankelijkheid en Mobiliteit bij Cliëntenbelang Amsterdam en ze haar eigen vertaalbureau heeft.
 
 Petra vind het belangrijk wat zij voor kleding draagt en hoe ze zich vertoond tegenover andere mensen. Doordat ze blind is kan ze zelf niet zien hoe iets haar staat en wat een goede combinatie kan zijn. Hiervoor heeft ze dan iemand ervoor nodig, maar wil ze graag het heft zelf in handen hebben. Voor de opdracht is het dan ook de bedoeling om haar kledingkast te digitaliseren, zodat ze zelf makkelijk en overzictelijk kan horen wat ze allemaal in bezit heeft en keuzes eruit te kunnen maken.
 
-**What does this user want on my site?**
+**- What does this user want on my site?**
 
 <details>
 <summary>Passende kleding uitzoeken</summary>
@@ -23,11 +23,11 @@ Petra vind het belangrijk wat zij voor kleding draagt en hoe ze zich vertoond te
 
 Petra wil graag een systeem waarin ze haar eigen kleding in kan terug vinden. Ze kan momenteel doormiddel van voelen wel herkennen welk kledingstuk wat is, maar hierbij is kleur en stijl dan nog een redelijk groot vraagstuk. Door het digitaliseren kan het in het systeem al haar kleding bijgehouden worden en worden deze vervolgens hardop voorgelezen. Hierdoor krijg Petra alle benodigde informatie over dat bepaalde kledingstuk en waar het in het kledingkast bevind zodat ze de goede pakt.
 
-**How is this user going to achieve his goals?**
+**- How is this user going to achieve his goals?**
 
 text
 
-**Why does this user come to my site?**
+**- Why does this user come to my site?**
 
 text
 
