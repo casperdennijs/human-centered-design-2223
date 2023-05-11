@@ -23,9 +23,9 @@ Petra vind het belangrijk wat zij voor kleding draagt en hoe ze zich vertoond te
 
 Petra wil graag een systeem waarin ze haar eigen kleding in kan terug vinden. Ze kan momenteel doormiddel van voelen wel herkennen welk kledingstuk wat is, maar hierbij is kleur en stijl dan nog een redelijk groot vraagstuk. Door het digitaliseren kan het in het systeem al haar kleding bijgehouden worden en worden deze vervolgens hardop voorgelezen. Hierdoor krijg Petra alle benodigde informatie over dat bepaalde kledingstuk en waar het in het kledingkast bevind zodat ze de goede pakt.
 
-**- How is this user going to achieve his goals?**
+**- How is this user going to achieve her goals?**
 
-text
+Petra weet ondanks ze blind is heel goed haar mobiele telefoon te gebruiken. Daar wil ik op inspelen en de applicatie op dat apparaat te maken. Verder wil ik het zo simpel mogelijk houden en met zo min mogelijke gedoe erbij. Als layout heb ik het dan ook geprobeerd om apps na te bootsen zoals je op de homepagina van je mobiel zou hebben. Wanneer je dan over een plaatje heen gaat noemt het alle belangrijke kledingstuk op die ze wilt weten.
 
 **- Why does this user come to my site?**
 
