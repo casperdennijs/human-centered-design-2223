@@ -25,11 +25,11 @@ Petra wil graag een systeem waarin ze haar eigen kleding in kan terug vinden. Ze
 
 **- How is this user going to achieve her goals?**
 
-Petra weet ondanks ze blind is heel goed haar mobiele telefoon te gebruiken. Daar wil ik op inspelen en de applicatie op dat apparaat te maken. Verder wil ik het zo simpel mogelijk houden en met zo min mogelijke gedoe erbij. Als layout heb ik het dan ook geprobeerd om apps na te bootsen zoals je op de homepagina van je mobiel zou hebben. Wanneer je dan over een plaatje heen gaat noemt het alle belangrijke kledingstuk op die ze wilt weten.
+Petra weet ondanks ze blind is heel goed haar mobiele telefoon te gebruiken. Daar wil ik op inspelen en de applicatie op dat apparaat te maken. Verder wil ik het zo simpel mogelijk houden en met zo min mogelijke gedoe erbij. Als layout heb ik het dan ook geprobeerd om apps na te bootsen zoals je op de homepagina van je mobiel zou hebben. Wanneer je dan over een plaatje heen gaat noemt het alle belangrijke kledingstuk op die ze wilt weten. Met de informatie die ze vervolgens vergaard kan ze bepalen of ze dit wil dragen of toch voor een ander kledingstuk goed. Of kan dan alsnog nog iemand anders ter advies vragen.
 
 **- Why does this user come to my site?**
 
-text
+Petra wilt op een snelle en makkelijke manier graag weten welke kleding ze heeft en hoe deze eruit zien. Ik hoop met deze applicatie die zo makkelijk mogelijk te maken door in te spelen op het feit dat goed weet hoe ze haar mobiel weet te gebruiken. Door simpele en duidelijk navigatie toe te passen wil ik ook zorgen dat ze zo min mogelijk tijd hoeft in te leveren om tot haar antwoord te komen.
 
 
 
