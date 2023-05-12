@@ -1,6 +1,6 @@
 # Digitale kledingkast
 
-Hier een plaatje van jouw prototype: `<img>`
+![digitale kledingkast](https://github.com/casperdennijs/human-centered-design-2223/assets/56598338/9fbe93ed-6bd3-43e5-9ea2-131220cd7305)
 
 ## Onderzoeksvraag
 
