@@ -23,6 +23,32 @@ https://casperdennijs.github.io/human-centered-design-2223/
 
 # Documentatie van de Design Principles, User Needs, Testen en Testresultaten.
 
+## Test #1
+
+**Vooraf:**
+
+Voorafgaand op de eerste test zijn we geintroduceerd met dit vak en de opdracht. Hier kregen we de basis informatie over de personen en zijn we ingedeeld in groepen. Ik kwam in groepje Petra terecht. Na de opdracht te hebben gekregen en de situatie van Petra te hebben geleerd werd het tijd om een eerste prototype te bedenken. Ik had hier nogal moeite mee om ik totaal geen idee had wie Petra verder is en wat haar behoeftes zijn. Uiteindelijk heb ik een hele simpele prototype gemaakt waarbij in HTML op volgorde kleding in een lijstje stond, deze zijn geordend op de aanname dat ze haar kledingkast zelf in een vaste order bij houd.
+
+**Gedurende:**
+
+Tijdens de test werden we officieel geintroduceerd met Petra zelf. Het groepje had een aantal vragen voorbereid om te voorkomen dat deze dubbel gesteld zouden worden. Hierin werd al vrij snel duidelijk dat mijn prototype geen nut gaat hebben. Ze heeft namelijk geen vaste ordening van het opbergen van haar kleding in haar kledingkast en daar was mijn prototype volledig op gebaseerd als aanname. Verder wou ze wel graag haar kledingkast digitaal hebben en kunnen matchen met wat ze heeft en daar feedback op krijgen. Ze wilt zelfstandiger kunnen zijn in het kiezen van kleren, maar moet wanneer nodig het wel makkelijk en snel met andere kunnen delen.
+
+**Achteraf:**
+
+Na de test heb ik besloten om mijn eerste prototype volledig te gaan schrappen en te gaan focussen op navigatie en layout. Gedurende test ging Petra namelijk met haar mobiel te werk en kwam naar voren dat ze ondanks ze blind is wel heel goed gebruik ervan te kunnen maken en daar wil op in gaan spelen. Ik ben begonnen met een overzicht van kleding met navigatie naar verschillende categorieen. Wanneer je op een kledingstuk klikt begint de screenreader voor te lezen wat de kledingstuk inhoud, zoals kleur, stijl en wat het is.
+
+## User Needs
+
+- Kleur en stijl vind ze het aller belangrijkste, de rest kan ze zelf vaak onderscheiden
+- Ze wil graag haar kledingkast gedigitaliseerd hebben
+- Snel en makkelijk te moeten gebruiken en goed werkende in combinatie met screenreader
+- Moet kleding combinaties kunnen delen met andere voor feedback
+- Basis feedback kunnen krijgen van de applicatie zelf
+
+## Design Principles
+
+## Test #2
+
 ## User Scenario
 
 **- Who is the user I’m designing for?**
@@ -48,24 +74,4 @@ Petra weet ondanks ze blind is heel goed haar mobiele telefoon te gebruiken. Daa
 
 Petra wilt op een snelle en makkelijke manier graag weten welke kleding ze heeft en hoe deze eruit zien. Ik hoop met deze applicatie die zo makkelijk mogelijk te maken door in te spelen op het feit dat goed weet hoe ze haar mobiel weet te gebruiken. Door simpele en duidelijk navigatie toe te passen wil ik ook zorgen dat ze zo min mogelijk tijd hoeft in te leveren om tot haar antwoord te komen.
 
-
-
-
-
-<!-- Add a link to your live demo in Github Pages 🌐-->
-
-<!-- ☝️ replace this description with a description of your own work -->
-
-<!-- replace the code in the /docs folder with your own, so you can showcase your work with GitHub Pages 🌍 -->
-
-<!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
-
-<!-- Maybe a table of contents here? 📚 -->
-
-<!-- How about a section that describes how to install this project? 🤓 -->
-
-<!-- ...but how does one use this project? What are its features 🤔 -->
-
-<!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
-
-<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
+## Conclusie
