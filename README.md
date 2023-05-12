@@ -102,4 +102,8 @@ Petra weet ondanks ze blind is heel goed haar mobiele telefoon te gebruiken. Daa
 
 Petra wilt op een snelle en makkelijke manier graag weten welke kleding ze heeft en hoe deze eruit zien. Ik hoop met deze applicatie die zo makkelijk mogelijk te maken door in te spelen op het feit dat goed weet hoe ze haar mobiel weet te gebruiken. Door simpele en duidelijk navigatie toe te passen wil ik ook zorgen dat ze zo min mogelijk tijd hoeft in te leveren om tot haar antwoord te komen.
 
-## Conclusie
+## Conclusie/Zelf Reflectie
+
+Het is heel interessant om een opdracht te maken gericht op 1 persoon, dit doe je normaal anders nooit. Veel geleerd hoe je rekening moet houden en dus accessibility moet toepassen waar je anders misschien nooit aan zou denken.
+
+Ik heb nu een prototype die ik anders waarschijnlijk nooit zou hebben gemaakt, waarbij ik een keer niet hoef te denken aan visuele vormgeving en puur op het voor haar makkelijk maken om het te gebruiken, snel kan gebruiken en de juiste informatie levert. Een grote uitdaging!
