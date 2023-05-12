@@ -12,18 +12,24 @@ html, body {
 nav {
     display: flex;
     justify-content: space-between;
-    padding: 1em;
     background-color: #f1f1f1;
 }
 
-nav button {
-    display: block;
-    height: 30px;
-    background-color: blue;
-    color: white;
+nav h1 {
+    padding: 1em;
+}
+
+nav a {
+    display: flex;
+    min-height: 100%;
+    aspect-ratio: 1/1;
+    padding: 0 2em;
+    background-color: lightgray;
+    color: black;
     border: none;
-    border-radius: 10px;
-    padding: 0 1em;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
 }
 
 main {
