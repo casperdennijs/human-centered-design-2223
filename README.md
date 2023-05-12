@@ -4,10 +4,8 @@ Hier een plaatje van jouw prototype: `<img>`
 
 ## Onderzoeksvraag
 
-<details>
-<summary>Passende kleding uitzoeken</summary>
-<p>Je representatief kunnen kleding in verschillende omstandigheden is voor iedereen belangrijk, ook voor Petra. Wat is casual, zakelijk, feestelijk of geschikt voor een begrafenis? Petra heeft een kast vol kleren die ze graag op het juiste moment wil kunnen gebruiken. Hoe vind je de juiste kleurencombinaties als je het niet kunt zien? Ontwerp een systeem dat de ordening van de kast voor Petra inzichtelijk maakt op kleur en stijl.</p>
-</details>
+**Passende kleding uitzoeken**
+Je representatief kunnen kleding in verschillende omstandigheden is voor iedereen belangrijk, ook voor Petra. Wat is casual, zakelijk, feestelijk of geschikt voor een begrafenis? Petra heeft een kast vol kleren die ze graag op het juiste moment wil kunnen gebruiken. Hoe vind je de juiste kleurencombinaties als je het niet kunt zien? Ontwerp een systeem dat de ordening van de kast voor Petra inzichtelijk maakt op kleur en stijl.
 
 ## Probleemdefinitie
 
