@@ -47,6 +47,22 @@ Na de test heb ik besloten om mijn eerste prototype volledig te gaan schrappen e
 
 ## Design Principles
 
+**1. Study situation**
+
+Petra is vanaf haar geboorte blind en kan dus helemaal niks zien, hierdoor kan zij dus geen schermen gebruiken die anders wel altijd gebruikt worden. Gedurende de eerste test kwam heel sterk naar voren welke apparaten ze gebruikt en hoe ze deze gebruikt. Hierbij zou je wellicht denken dat een smartphone lastig zou kunnen zijn, maar Petra liet het tegendeel zien, ondanks dat ze blind kan ze heel goed en snel overweg met haar mobiel met ondersteuning van een screenreader. Ze weet snel haar doel te bereiken en was dan ook niet beperkt in het feit dat ze niets kan zien. In mijn prototype wil ik rekening houden met haar expertise in het gebruik van haar mobiel en wil ik daar op inspelen.
+
+**2. Prioritise identity**
+
+Ik ga de applicatie voor mobiel maken, omdat Petra hier snel en handig in kan werken. Ik ga me hierbij focussen op de layout en navigatie, aangezien ze zelf al snel is wil ik het gebruik ook vlot laten verlopen zodat ze niet hoeft te wachten. Hierdoor heeft ze ook snel haar informatie en kan ze snel door naar de volgende stap.
+
+**3. Ignore conventions**
+
+Standaard design patronen bij het maken van een applicatie kan ik nu helemaal negeren. Veel punten waar je visueel bij moet denken zijn namelijk helemaal niet van toepassing omdat Petra niet kan zien. Ik kan me dus volledig gaan focussen op accessibility en daar meer over leren. De werking van een screenreader, wat er voor gelezen wordt en hoe je in code kan zorgen dat er niet onnodige spullen opgenoemd worden. Ook hoe je bijvoorbeeld op laptop kan tabben door elementen die dit normaal niet kunnen door tabindex toe te passen en dan met aria-labels ze volgens hardop voor te lezen.
+
+**4. Add nonsense**
+
+Ik heb niet echt "nonsense" hoeven toe te passen. Ik heb mijn prototype zo straight to the point gemaakt en tijdens de test kwam naar voren dat de navigatie duidelijk was, maar kleding omschrijvingen nog uitgebreider konden.
+
 ## Test #2
 
 ## User Scenario
