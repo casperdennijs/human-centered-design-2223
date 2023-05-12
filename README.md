@@ -1,12 +1,30 @@
 # Digitale kledingkast
 
-Deze opdracht is onderdeel van het vak Human Centered Design. Human Centered Design is een methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen.
+Hier een plaatje van jouw prototype: `<img>`
 
-> What distinguishes Human-Centered Design from other problem-solving approaches is its obsessive focus on understanding the perspective of the person who experiences a problem, their needs, and whether the solution that has been designed for them is truly meeting their needs effectively or not. At its most effective, the very people who experience a problem the most are a constant part of the design process and when possible, become part of the design team itself. - [What Is Human-Centered Design?](https://medium.com/dc-design/what-is-human-centered-design-6711c09e2779)
+## Onderzoeksvraag
 
-## Opdracht
+<details>
+<summary>Passende kleding uitzoeken</summary>
+<p>Je representatief kunnen kleding in verschillende omstandigheden is voor iedereen belangrijk, ook voor Petra. Wat is casual, zakelijk, feestelijk of geschikt voor een begrafenis? Petra heeft een kast vol kleren die ze graag op het juiste moment wil kunnen gebruiken. Hoe vind je de juiste kleurencombinaties als je het niet kunt zien? Ontwerp een systeem dat de ordening van de kast voor Petra inzichtelijk maakt op kleur en stijl.</p>
+</details>
 
-### User Scenario
+## Probleemdefinitie
+
+Petra vind het belangrijk wat zij voor kleding draagt en hoe ze zich vertoond tegenover andere mensen. Doordat ze blind is kan ze zelf niet zien hoe iets haar staat en wat een goede combinatie kan zijn. Hiervoor heeft ze dan iemand ervoor nodig, maar wil ze graag het heft zelf in handen hebben. Voor de opdracht is het dan ook de bedoeling om haar kledingkast te digitaliseren, zodat ze zelf makkelijk en overzictelijk kan horen wat ze allemaal in bezit heeft en keuzes eruit te kunnen maken.
+
+## Oplossing
+
+Ik heb een mobiele applicatie gemaakt waarbij ze makkelijk informatie over haar kleding kan ophalen. Petra is ondanks ze blind is heel goed met haar mobiel gebruiken en daar heb ik op ingespeeld. Met een simpele layout probeer ik haar binnen enkele handelingen de informatie te krijgen die ze wilt. Ze kan per categorie horen welke kledingstukken ze heeft die vervolgens door haar screenreader wordt voorgelezen. Ik heb alle kledingstukken zo geplaatst dat het lijkt op je apps in je homescreen. Aangezien deze layout al vrij bekend is zal dit hopelijk helpen sneller op gemak te voelen met het gebruik.
+
+## Link prototype
+https://casperdennijs.github.io/human-centered-design-2223/
+
+----
+
+# Documentatie van de Design Principles, User Needs, Testen en Testresultaten.
+
+## User Scenario
 
 **- Who is the user I’m designing for?**
 
